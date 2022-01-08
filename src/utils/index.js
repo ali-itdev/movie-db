@@ -1,0 +1,3 @@
+import { default as API } from "./API";
+
+export default API;
