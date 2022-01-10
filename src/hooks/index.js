@@ -1,1 +1,2 @@
-export * from "./useHomeFetch"
+export * from "./useHomeFetch";
+export * from "./useMovieFetch";
