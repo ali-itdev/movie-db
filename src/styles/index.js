@@ -1,3 +1,4 @@
+export * from "./GlobalStyle";
 export * as BreadCrumb from "./BreadCrumb";
 export * as Button from "./Button";
 export * as Grid from "./Grid";

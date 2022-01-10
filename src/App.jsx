@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import { Header } from "./components";
 import { Home, Movie, NotFound } from "./pages";
-import { GlobalStyle } from "./GlobalStyle";
+import { GlobalStyle } from "./styles";
 
 const App = () => (
   <Router>
