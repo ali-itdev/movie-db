@@ -6,3 +6,4 @@ export * from "./Spinner";
 export * from "./SearchBar";
 export * from "./Button";
 export * from "./BreadCrumb";
+export * from "./Rate";
