@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/TheMovieGuy/static/js/main.acd6888b.js",
+    "main.js": "/TheMovieGuy/static/js/main.c93f5ae9.js",
     "static/media/no_image.jpg": "/TheMovieGuy/static/media/no_image.22d2aa4d1af1a092666a.jpg",
     "static/media/react-movie-logo.svg": "/TheMovieGuy/static/media/react-movie-logo.42955eb6fcd32d2d228d0634c7cb7804.svg",
     "static/media/tmdb_logo.svg": "/TheMovieGuy/static/media/tmdb_logo.f15b66321d9915689a58f8372fa02398.svg",
     "index.html": "/TheMovieGuy/index.html",
     "static/media/search-icon.svg": "/TheMovieGuy/static/media/search-icon.cd820f5a55f7cd57d7131f1672d43473.svg",
-    "main.acd6888b.js.map": "/TheMovieGuy/static/js/main.acd6888b.js.map"
+    "main.c93f5ae9.js.map": "/TheMovieGuy/static/js/main.c93f5ae9.js.map"
   },
   "entrypoints": [
-    "static/js/main.acd6888b.js"
+    "static/js/main.c93f5ae9.js"
   ]
 }
