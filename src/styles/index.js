@@ -6,3 +6,6 @@ export * as Header from "./Header";
 export * as HeroImage from "./HeroImage";
 export * as SearchBar from "./SearchBar";
 export * as Thumb from "./Thumb";
+export * as MovieInfo from "./MovieInfo";
+export * as MovieInfoBar from "./MovieInfoBar";
+export * as Actor from "./Actor";

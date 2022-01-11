@@ -7,3 +7,6 @@ export * from "./SearchBar";
 export * from "./Button";
 export * from "./BreadCrumb";
 export * from "./Rate";
+export * from "./MovieInfo";
+export * from "./MovieInfoBar";
+export * from "./Actor";
