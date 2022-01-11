@@ -32,7 +32,7 @@ const Movie = () => {
       <BreadCrumb movieTitle={movie.original_title} />
       <MovieInfo movie={movie} />
       <MovieInfoBar
-        time={movie.time}
+        time={movie.runtime}
         budget={movie.budget}
         revenue={movie.revenue}
       />
