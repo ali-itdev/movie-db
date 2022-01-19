@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { config } from "../utils";
+import { config } from "../lib";
 const { IMAGE_BASE_URL, BACKDROP_SIZE } = config;
 
 export const Wrapper = styled.div`

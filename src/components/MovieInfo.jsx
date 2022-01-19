@@ -7,7 +7,7 @@ import { Thumb } from "../components";
 // Assets
 import { NoImage } from "../assets";
 
-import { config } from "../utils";
+import { config } from "../lib";
 import { MovieInfo as styles } from "../styles";
 
 // Styles

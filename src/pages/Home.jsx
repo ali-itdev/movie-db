@@ -1,7 +1,7 @@
 import * as components from "../components";
 import { NoImage } from "../assets";
 import { useHomeFetch } from "../hooks";
-import { config } from "../utils";
+import { config } from "../lib";
 
 const { HeroImage, Grid, Thumb, Spinner, SearchBar, Button } = components;
 const { POSTER_SIZE, BACKDROP_SIZE, IMAGE_BASE_URL } = config;

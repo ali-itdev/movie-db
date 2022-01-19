@@ -17,7 +17,7 @@ import { useMovieFetch } from "../hooks";
 import { NoImage } from "../assets";
 
 // Configs
-import { config } from "../utils";
+import { config } from "../lib";
 const { IMAGE_BASE_URL, POSTER_SIZE } = config;
 
 const Movie = () => {

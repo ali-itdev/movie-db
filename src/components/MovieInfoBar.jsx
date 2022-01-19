@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import { MovieInfoBar as styles } from "../styles";
 
 // Helpers
-import { helpers } from "../utils";
+import { helpers } from "../lib";
 
 const { calcTime, convertMoney } = helpers;
 const { Wrapper, Content } = styles;

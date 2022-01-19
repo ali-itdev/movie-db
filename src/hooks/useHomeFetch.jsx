@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-import API, { helpers } from "../utils";
+import API, { helpers } from "../lib";
 const { isPersistedState } = helpers;
 
 const initialState = {
