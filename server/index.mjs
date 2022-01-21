@@ -34,5 +34,5 @@ app.get("/*", (req, res) => {
 });
 
 
-const { SERVER_PORT: PORT } = env;
+const PORT = env.SERVER_PORT || 5000;
 app.listen(PORT, () => console.log(`Server is running on port ${PORT}`));
