@@ -18,6 +18,9 @@
     "react-scripts": "5.0.0",
     "styled-components": "^5.3.3"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "serve": "npm run build; node server/index.mjs",
     "dev": "npm run build; nodemon server/index.mjs",
